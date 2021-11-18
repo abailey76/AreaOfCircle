@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfCircle", "AreaOfCircle\AreaOfCircle.csproj", "{76C754D6-AA67-4E5A-ACB9-09AA62D3168B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaOfCircle", "AreaOfCircle\AreaOfCircle.csproj", "{76C754D6-AA67-4E5A-ACB9-09AA62D3168B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircumferenceAndDiameter", "CircumferenceAndDiameter\CircumferenceAndDiameter.csproj", "{FFC69F25-2C77-48FE-A64D-D451A0BD7694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadTrip", "RoadTrip\RoadTrip.csproj", "{900646A4-C223-4B7C-B69C-C5317846BDA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{76C754D6-AA67-4E5A-ACB9-09AA62D3168B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C754D6-AA67-4E5A-ACB9-09AA62D3168B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C754D6-AA67-4E5A-ACB9-09AA62D3168B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC69F25-2C77-48FE-A64D-D451A0BD7694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC69F25-2C77-48FE-A64D-D451A0BD7694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC69F25-2C77-48FE-A64D-D451A0BD7694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC69F25-2C77-48FE-A64D-D451A0BD7694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900646A4-C223-4B7C-B69C-C5317846BDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900646A4-C223-4B7C-B69C-C5317846BDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900646A4-C223-4B7C-B69C-C5317846BDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900646A4-C223-4B7C-B69C-C5317846BDA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
